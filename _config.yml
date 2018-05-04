@@ -1,17 +1,17 @@
 # Base blog settings
 baseurl                      : "/dactl" # the subpath of your site,                         # e.g. /blog/
                               # set to '' in case of hosting on GitHub
-url                          : "https://m0nica.github.io" # the base hostname & protocol for your site
+url                          : "https://caroline608.github.io" # the base hostname & protocol for your site
                                   # `http://<username>.github.io` - for GitHub
 
 blog:
-  title                      : Workshop
+  title                      : Hola, soy Caroline.
   description                  : >
                                This website was made for a Codeland 2018 workshop on building a Jekyll site.
 
 # Layout configuration
   logo_path                  : "assets/img/code.svg" # path to logo file
-  search_path                : # "yourgitusername.github.io"
+  search_path                : "caroline608.github.io"# "yourgitusername.github.io"
                                # needed for searchbox in archive page
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -26,11 +26,11 @@ blog:
 
 # Author info
 author:
-  fullname                  : Monica Powell
+  fullname                  : Caroline Cruz
   rss                       : true # generate RSS feed and show it's icon in header
-  mail                      : your@email.com # change to your e-mail address
-  twitter                   : twitter-user-name
-  github                    : github-user-name
+  mail                      : cruz.caroline08@email.com # change to your e-mail address
+  twitter                   : cruzingcaro #twitter-user-name
+  github                    : caroline608 #github-user-name
   youtube                   : youtube-user-name
   stackoverflow             : stackoverflow-user-name
   disqus                    : dactl # your disqus site name
